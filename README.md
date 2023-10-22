@@ -1,2 +1,2 @@
-# recmonke.github.io
+# recmonke
 recmonke website. availible for a limited time
